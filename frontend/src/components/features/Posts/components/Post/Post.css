@@ -1,0 +1,17 @@
+.post {
+  padding: 15px;
+  border: 2px black solid;
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  border-radius: 15px;
+  background-color: white;
+}
+
+.postStripe {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

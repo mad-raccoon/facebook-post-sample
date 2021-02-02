@@ -1,0 +1,7 @@
+.commentsOverview {
+  cursor: pointer;
+}
+
+.commentsOverview span {
+  display: inline-block;
+}

@@ -1,0 +1,19 @@
+.navigationBar {
+  display: flex;
+  justify-content: space-around;
+  padding: 25px;
+  background-color: black;
+  color: white;
+  position: sticky;
+  top: 0;
+}
+
+.navigationBar h3 {
+  cursor: pointer;
+  text-transform: capitalize;
+}
+
+.navigationBar h3.selected {
+  text-decoration: underline;
+  font-weight: bold;
+}

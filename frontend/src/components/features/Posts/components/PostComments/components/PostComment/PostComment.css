@@ -1,0 +1,16 @@
+.postComment {
+  margin-bottom: 5px;
+  padding: 5px;
+  border: 2px solid gray;
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  background-color: whitesmoke;
+  border-radius: 5px;
+}
+
+.commentStripe {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
